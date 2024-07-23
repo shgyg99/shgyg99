@@ -1,16 +1,12 @@
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
-<h1 align="center">Hi 👋, I'm Shaghayegh</h1>
+<h1 align="center">Hi 👋, It's Shaghayegh Matlabi</h1>
 <h3 align="center">A machine learning engineer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://metaexchanges.ca/wp-content/uploads/2023/07/gif-code.gif">
-
-- 🌱 I’m currently learning **Deep learning, AWS**
 
 - 💬 Ask me about **Python, Machine learning, SQL**
 
 - 📫 How to reach me **shgyg99@gmail.com**
-
-- ⚡ Fun fact **I'm a dream-catcher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
