@@ -1,6 +1,6 @@
 [![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)](https://shgyg99.github.io/portfolio/)
 
-<h1 align="center">Hi 👋, I'm Shaghayegh Matlabi</h1>
+<h1 align="center">Hi 👋, I'm Shaqayeq Matlabi</h1>
 <h3 align="center">A Machine Learning Engineer crafting intelligent systems from Iran</h3>
 
 <img align="right" alt="Coding" width="400" src="https://metaexchanges.ca/wp-content/uploads/2023/07/gif-code.gif">
