@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shaqayeq Matlabi</h1>
 <h3 align="center">A Machine Learning Engineer crafting intelligent systems from Iran</h3>
 
-<img align="right" alt="Coding" width="400" src="https://metaexchanges.ca/wp-content/uploads/2023/07/gif-code.gif">
 
 ### 👩‍💻 About Me
 
