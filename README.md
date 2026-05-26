@@ -35,7 +35,7 @@ I'm an ML Engineer with 3 years of experience in building and deploying deep lea
 
 <p align="left">
 <a href="https://linkedin.com/in/rosa1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosa1999" height="30" width="40" /></a>
-<a href="https://shgyg99.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Your_Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
+<a href="https://shgyg99.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-My_Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
