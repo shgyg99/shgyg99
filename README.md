@@ -38,10 +38,4 @@ I'm an ML Engineer with 3 years of experience in building and deploying deep lea
 <a href="https://shgyg99.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-My_Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
 </p>
 
----
 
-### 📊 My GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shgyg99&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shgyg99" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shgyg99&show_icons=true&locale=en&theme=transparent" alt="shgyg99" /></p>
